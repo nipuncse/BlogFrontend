@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+        'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+        'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* background: url(../public/images/party.jpg) no-repeat; */
+    background: radial-gradient(#ce2696, #620180ad, #02415c);
+    /* background: radial-gradient(#0f000a, #646364ad, #e5e5e5); */
+    /* background: radial-gradient(#e5e5e5, #646364ad, #0f000a); */
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}

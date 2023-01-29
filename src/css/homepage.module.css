@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: rgba(0, 0, 0, 0.4); */
+    /* background: url(../../public/images/party.jpg) no-repeat; */
+    /* opacity: 0.5; */
+
+    height: 100vh;
+    font-family: sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
